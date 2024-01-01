@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <History>True|2021-08-31T08:49:20.1880948Z;False|2021-08-31T11:40:56.6532854+03:00;</History>
+    <_PublishTargetUrl>C:\Mobile API\Publish</_PublishTargetUrl>
+  </PropertyGroup>
+</Project>
